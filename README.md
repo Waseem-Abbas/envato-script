@@ -10,7 +10,8 @@ The only requirement is your Envato API token. Instead of using the API key you 
 
 ### Installation & Configurations
 - Download the zip file
-- Upload it to your development or production host
+- Extract it
+- Upload it to your development or production server
 - Open the file envato-script > classes > envato.api.class.php
 - Replace "ENTER PERSONAL TOKEN HERE" with the token you received earlier
 - Launch the script in your browser and start downloading
