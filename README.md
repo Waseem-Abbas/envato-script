@@ -17,7 +17,7 @@ The only requirement is your Envato API token. Instead of using the API key you 
 - Launch the script in your browser and start downloading
 
 ### Contributing
-Contributions are always welcomed. I'm just learning this API so I really don't know everything it offers. Send me a pull request if you feel like helping.
+Contributions are always welcomed and I would love it if you could help in the design part. I'm so bad with front-end stuffs. I'm just learning this API so I really don't know everything it offers. Send me a pull request if you feel like helping.
 
 Stay golden.
 
