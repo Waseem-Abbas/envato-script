@@ -7,7 +7,7 @@ class EnvatoAPI
 	
 	private $api_url = 'https://api.envato.com/v1/market/private/user/download-purchase:';
 	private $pcode;
-	private $token_code = 'S0FWO7t4VLgraog7hzdvPfuS4mipQDxL';
+	private $token_code = 'ENTER PERSONAL TOKEN HERE';
 
 	public function set_purchase_code($pcode)
 	{
