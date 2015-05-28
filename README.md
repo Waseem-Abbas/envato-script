@@ -5,7 +5,7 @@ This is a super simple Envato script that uses the new Envato API. All it does a
 ### Requirements
 The only requirement is your Envato API token. Instead of using the API key you used to have in your settings page, you're going to need this API token. Here's how you can get it:
 - Go to the [API website] - It will ask you to login. Do it.
-- Scroll download and click the button 'Create a New Token'
+- Scroll down and click the button 'Create a New Token'
 - Follow the process and **make sure you copy and save your token somewhere secure because this is the last time they are showing it to you.**
 
 ### Installation & Configurations
